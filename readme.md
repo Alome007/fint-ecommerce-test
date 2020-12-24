@@ -66,7 +66,9 @@ $ composer install
   ```$ php artisan serve```
 
 ## Screenshot 
-<img src="https://github.com/Alome007/Tellerium-Assessment/blob/master/fint1.jpeg" alt="s2" width="auto" height="auto"/> &nbsp;&nbsp;
+<img src="https://github.com/Alome007/fint-ecommerce-test/blob/main/fint1.PNG" alt="s2" width="auto" height="auto"/> &nbsp;&nbsp;
+<img src="https://github.com/Alome007/fint-ecommerce-test/blob/main/fint2.PNG" alt="s2" width="auto" height="auto"/> &nbsp;&nbsp;
+
    
     
     

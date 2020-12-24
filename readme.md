@@ -73,4 +73,4 @@ $ composer install
 ## Acknowledgments
 * [Laravel](https://laravel.com) - The excellent documentation explaining how to get started with Laravel and Laravel Passport made it easy to provide a step by step guide for beginners to follow the application
 * [Vue](https://vuejs.org) - Concise documentation 
-* [Stackoverflow](https://stackoverflow.com/questions/tagged/vue.js?tab=Newest) - Concise documentation 
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/vue.js?tab=Newest) - Vue JS Related Tagss

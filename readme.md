@@ -1,5 +1,5 @@
 # Building an E-commerce platform with Laravel and Vue
-This is a demo application showing how to build an e-commerce platform using Laravel and Vue. You can read about how it was created [on Pusher's blog](https://blog.pusher.com/author/neo).
+This is a demo application contains the Code base for [FINT.NG Developer Role Test](http://fint.ng) . 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -11,13 +11,13 @@ What things you need to install the software.
 * PHP.
 * Composer.
 * Laravel CLI.
-* A webserver like Nginx or Apache.
+* A webserver like [XAMPP](https://www.apachefriends.org/download.html).
 * A Node Package Manager ( npm or yarn ).
 
 ### Install
 Clone the git repository on your computer
 
-```$ git clone https://github.com/neoighodaro-articles/e-commerce-laravel-vue.git```
+```$ https://github.com/Alome007/fint-ecommerce-test/```
 
 
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
@@ -25,7 +25,7 @@ You can also download the entire repository as a zip file and unpack in on your 
 After cloning the application, you need to install it's dependencies. 
 
 ```
-$ cd e-commerce-laravel-vue
+$ cd fint-ecommerce-test
 $ composer install
 ```
 
@@ -73,3 +73,4 @@ $ composer install
 ## Acknowledgments
 * [Laravel](https://laravel.com) - The excellent documentation explaining how to get started with Laravel and Laravel Passport made it easy to provide a step by step guide for beginners to follow the application
 * [Vue](https://vuejs.org) - Concise documentation 
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/vue.js?tab=Newest) - Concise documentation 

@@ -37,26 +37,5 @@
 </style>
 
 <script>
-import emailjs from 'emailjs-com';
-  methods: {
-    sendEmail(e) {
-      try {
-        emailjs.sendForm('service_ykqgo9h', 'template_jznf79r', e.target,
-        'user_Ak2Q9VJUFoQdCqyz75HHW', {
-          name: "Your Order Have been successfully Placed",
-          email: "astrocoder007@gmail.com",
-          message: "Thanks for Your Patronage"
-        })
 
-      } catch(error) {
-          console.log({error})
-      }
-      // Reset form field
-      
-    },
- beforeMount(){
-    this.sendEmail()
- },
-  }
-}
 </script>

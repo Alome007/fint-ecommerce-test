@@ -65,7 +65,11 @@ $ composer install
 
   ```$ php artisan serve```
 
-
+## Screenshot 
+<img src="https://github.com/Alome007/Tellerium-Assessment/blob/master/fint1.jpeg" alt="s2" width="auto" height="auto"/> &nbsp;&nbsp;
+   
+    
+    
 ## Built With
 * [Laravel](https://laravel.com) - The PHP framework for building the API endpoints needed for the application
 * [Vue](https://vuejs.org) - The Progressive JavaScript Framework for building interactive interfaces

@@ -1,5 +1,5 @@
 # Building an E-commerce platform with Laravel and Vue
-This is a demo application contains the Code base for [FINT.NG Developer Role Test](http://fint.ng) . 
+This is demo application contains the Code base for [FINT.NG Developer Role Test](http://fint.ng) . 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
